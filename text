@@ -1,0 +1,19 @@
+pomodoro-personalizado/
+├── client/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── app.js
+│   └── index.html
+├── server/
+│   ├── models/
+│   │   ├── subject.js
+│   │   └── review.js
+│   ├── routes/
+│   │   ├── subjects.js
+│   │   └── reviews.js
+│   ├── database/
+│   │   └── db.js
+│   └── server.js
+├── .gitignore
+└── README.md
